@@ -1,0 +1,25 @@
+.response-box {
+    margin-top: 20px;
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  pre {
+    background: #e8e8e8;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  

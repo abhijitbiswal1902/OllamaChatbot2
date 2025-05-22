@@ -48,7 +48,7 @@ NOTE:If working on any environment apart from Macos please verify the .env file 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ollama-chatbot.git
+git clone https://github.com/abhijitbiswal1902/OllamaChatbot2
 cd ollama-chatbot
 
 2. Set Up the Backend
